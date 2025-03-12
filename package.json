@@ -1,0 +1,32 @@
+{
+  "name": "mcprunner",
+  "version": "1.0.0",
+  "description": "A CLI tool to create and execute scripts with env variables.",
+  "main": "bin/index.js",
+  "bin": {
+    "mcprunner": "bin/index.js"
+  },
+  "dependencies": {},
+  "keywords": [
+    "cli",
+    "environment",
+    "variables",
+    "cursor",
+    "cursor-ai",
+    "mcp",
+    "runner",
+    "mcp-server",
+    "mcp-client",
+    "Cline",
+    "RooCode"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abdelrahman-7gab/MCPRunner"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  },
+  "author": "Abdelrahman Hegab",
+  "license": "MIT"
+}

@@ -1,0 +1,24 @@
+# Development files
+.git
+.github
+.gitignore
+.vscode
+.idea
+*.log
+*.tgz
+
+# Test files
+test/
+tests/
+__tests__/
+coverage/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+*.temp
+
+# OS specific files
+.DS_Store
+Thumbs.db 
